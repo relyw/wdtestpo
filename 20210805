@@ -1,2 +1,0 @@
-测试文件
-string dic =  GithubHelpers.GetFileContent("relyw", "wdtestpo", "main", "20210805.md", "f182f925c47c008b21448cf1bb73141a4b4036c3");
