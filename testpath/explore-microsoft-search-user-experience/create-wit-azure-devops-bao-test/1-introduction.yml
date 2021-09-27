@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.create-wit-azure-devops-bao-test.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: "Introduction"
+  ms.date: 09/27/2021
+  author: wwlpublish
+  ms.author: benjiang
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+azureSandbox: true
+sandbox: true
+labModal: false
+durationInMinutes: 3
+content: |
+  [!include[](includes/1-introduction.md)]
